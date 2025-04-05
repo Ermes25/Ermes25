@@ -2,20 +2,6 @@
 
 # I'm Jose Gamez
 
-<br>
-
-<div>
-  <a href="https://www.instagram.com/jg_1725?igsh=NHlvN21za3BqaDFs" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin: 0 30px;">
-  </a>
-  <a href="mailto:ermes252020@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" style="margin: 0 30px;">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100084824966760" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" style="margin: 0 30px;">
-  </a>
-</div>
-
 <br><br>
 
 ## WELCOME TO MY REPOSITORY
